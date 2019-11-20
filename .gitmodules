@@ -1,0 +1,3 @@
+[submodule "C/iniparser"]
+	path = C/iniparser
+	url = https://github.com/ndevilla/iniparser.git
